@@ -36,3 +36,8 @@ To exit the game you can use the Flee command from the main game menu.
 After closing the game, you can deactivate the environment by simply typing: ```bash conda deactivate terminal-rpg```
 
 ## Screenshots
+![Alt text](https://user-images.githubusercontent.com/57226483/111079616-5f961700-8503-11eb-8117-85f3a25b15d2.png)
+![Alt text](https://user-images.githubusercontent.com/57226483/111079619-602ead80-8503-11eb-8f54-25a35a5c517d.png)
+![Alt text](https://user-images.githubusercontent.com/57226483/111079634-7177ba00-8503-11eb-8a26-12575c9fa252.png)
+![Alt text](https://user-images.githubusercontent.com/57226483/111079618-602ead80-8503-11eb-9772-d12ffccdca3d.png)
+![Alt text](https://user-images.githubusercontent.com/57226483/111079614-5efd8080-8503-11eb-92eb-0e03bb352714.png)
