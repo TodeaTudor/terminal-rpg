@@ -42,5 +42,5 @@ After closing the game, you can deactivate the environment by simply typing: ```
 ![Alt text](https://user-images.githubusercontent.com/57226483/111079618-602ead80-8503-11eb-9772-d12ffccdca3d.png)
 ![Alt text](https://user-images.githubusercontent.com/57226483/111079614-5efd8080-8503-11eb-92eb-0e03bb352714.png)
 
-## Credit
-The music used was composed by [Adrian Von Ziegler](https://www.youtube.com/watch?v=po1Hy4BXLIo)
+## Additional credits
+The music used was composed by [Adrian von Ziegler](https://www.youtube.com/watch?v=po1Hy4BXLIo)
